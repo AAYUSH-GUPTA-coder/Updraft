@@ -125,7 +125,7 @@ Go ahead and compile/deploy Encoding.sol with this new function and call it. We 
 
 <img src="/foundry-nfts/19-advanced-evm/advanced-evm7.png" width="100%" height="auto">
 
-This hex formmat, this encoding, is how a computer understands the number `1`.
+This hex format, this encoding, is how a computer understands the number `1`.
 
 Now, as mentioned, this can be used to encode basically anything, we can write a function to encode a string and see what it's output would be just the same.
 
